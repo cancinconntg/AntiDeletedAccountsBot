@@ -1,0 +1,7 @@
+pyrogram
+TgCrypto
+umongo
+dnspython
+heroku3
+telethon
+asyncio
